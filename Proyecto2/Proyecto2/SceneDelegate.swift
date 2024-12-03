@@ -3,9 +3,9 @@
 //  Proyecto2
 //
 //  Created by:
-//  - Salazar Olivares Ricardo
-//  - Yonatan Martín Galicia Serrano
-//  on 14/11/24.
+//  - Gutierrez Cortes Uriel Omar
+//  - Macias Hernandez Daniel
+//  on 02/12/24.
 //
 
 import UIKit

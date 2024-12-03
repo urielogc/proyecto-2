@@ -3,9 +3,9 @@
 //  Proyecto2
 //
 //  Created by:
-//  - Salazar Olivares Ricardo
-//  - Yonatan Martín Galicia Serrano
-//  on 14/11/24.
+//  - Gutierrez Cortes Uriel Omar
+//  - Macias Hernandez Daniel
+//  on 02/12/24.
 //
 
 import UIKit
@@ -17,10 +17,10 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     var productsInfo:[ProductInfo] = [
         ProductInfo(imageName: "item1", name: "Taladro"),
-        ProductInfo(imageName: "item2", name: "Sierra de mano"),
-        ProductInfo(imageName: "item3", name: "Caja de Herramientas"),
-        ProductInfo(imageName: "item4", name: "Sierra de mesa"),
-        ProductInfo(imageName: "item5", name: "Mancuernas")]
+        ProductInfo(imageName: "item2", name: "Pico"),
+        ProductInfo(imageName: "item3", name: "Computador"),
+        ProductInfo(imageName: "item4", name: "grabadora"),
+        ProductInfo(imageName: "item5", name: "pesas")]
 
     override func viewDidLoad() {
         super.viewDidLoad()
